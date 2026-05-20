@@ -1,0 +1,175 @@
+/* D4 Playbook custom theme — extends Starlight defaults */
+
+:root {
+  /* Brand accent: muted Sanctuary red */
+  --sl-color-accent: #c64545;
+  --sl-color-accent-high: #f1a0a0;
+  --sl-color-accent-low: #3a1212;
+}
+
+:root[data-theme='dark'] {
+  /* Slightly warmer than default Starlight black */
+  --sl-color-bg: #0d0c0a;
+  --sl-color-bg-nav: #131211;
+  --sl-color-bg-sidebar: #131211;
+  --sl-color-text: #e8e5e0;
+  --sl-color-text-accent: var(--sl-color-accent-high);
+
+  /* Custom semantic colors used by callouts */
+  --d4-do-bg: rgba(56, 142, 60, 0.10);
+  --d4-do-border: #4caf50;
+  --d4-do-text: #a7e5ab;
+
+  --d4-dont-bg: rgba(229, 57, 53, 0.10);
+  --d4-dont-border: #ef5350;
+  --d4-dont-text: #f3a8a6;
+
+  --d4-cav-bg: rgba(255, 160, 0, 0.10);
+  --d4-cav-border: #ffa000;
+  --d4-cav-text: #f3cf85;
+
+  --d4-table-border: #2a2826;
+  --d4-table-header-bg: #1a1816;
+  --d4-table-stripe: rgba(255, 255, 255, 0.015);
+}
+
+:root[data-theme='light'] {
+  --sl-color-bg: #fafaf8;
+  --sl-color-bg-nav: #f3f2ee;
+  --sl-color-bg-sidebar: #f3f2ee;
+  --sl-color-text: #1a1816;
+
+  --d4-do-bg: #e7f5e8;
+  --d4-do-border: #2e7d32;
+  --d4-do-text: #1b5e20;
+
+  --d4-dont-bg: #fde8e8;
+  --d4-dont-border: #c62828;
+  --d4-dont-text: #8e1414;
+
+  --d4-cav-bg: #fff4e0;
+  --d4-cav-border: #ef6c00;
+  --d4-cav-text: #6e3a00;
+
+  --d4-table-border: #d8d4cc;
+  --d4-table-header-bg: #ecebe6;
+  --d4-table-stripe: rgba(0, 0, 0, 0.02);
+}
+
+/* Tables: subtle borders, light header tint, zebra striping */
+.sl-markdown-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.25rem 0;
+  font-size: 0.95em;
+  border: 1px solid var(--d4-table-border);
+}
+.sl-markdown-content table th {
+  background: var(--d4-table-header-bg);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid var(--d4-table-border);
+  border-right: 1px solid var(--d4-table-border);
+}
+.sl-markdown-content table th:last-child { border-right: none; }
+.sl-markdown-content table td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--d4-table-border);
+  border-right: 1px solid var(--d4-table-border);
+  vertical-align: top;
+}
+.sl-markdown-content table td:last-child { border-right: none; }
+.sl-markdown-content table tr:nth-child(even) td { background: var(--d4-table-stripe); }
+.sl-markdown-content table tr:last-child td { border-bottom: none; }
+
+/* Override Starlight aside colors so tip=green, caution=amber, danger=red */
+.starlight-aside--tip {
+  background-color: var(--d4-do-bg);
+  border-inline-start-color: var(--d4-do-border);
+}
+.starlight-aside--tip .starlight-aside__title { color: var(--d4-do-text); }
+
+.starlight-aside--caution {
+  background-color: var(--d4-cav-bg);
+  border-inline-start-color: var(--d4-cav-border);
+}
+.starlight-aside--caution .starlight-aside__title { color: var(--d4-cav-text); }
+
+.starlight-aside--danger {
+  background-color: var(--d4-dont-bg);
+  border-inline-start-color: var(--d4-dont-border);
+}
+.starlight-aside--danger .starlight-aside__title { color: var(--d4-dont-text); }
+
+/* Task-list checkboxes: clickable, larger, with completed strikethrough */
+.sl-markdown-content ul.contains-task-list,
+.sl-markdown-content ul:has(> li > input[type="checkbox"]) {
+  list-style: none;
+  padding-left: 0.5rem;
+}
+.sl-markdown-content li.task-list-item,
+.sl-markdown-content li:has(> input[type="checkbox"]) {
+  padding: 0.25rem 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  line-height: 1.5;
+}
+.sl-markdown-content li input[type="checkbox"] {
+  margin-top: 0.35rem;
+  width: 1.05rem;
+  height: 1.05rem;
+  accent-color: var(--sl-color-accent);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.sl-markdown-content li.task-completed,
+.sl-markdown-content li:has(> input[type="checkbox"]:checked) {
+  opacity: 0.55;
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+}
+
+/* "Reset progress" button helper */
+.d4-reset-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.45rem 0.85rem;
+  background: transparent;
+  border: 1px solid var(--sl-color-accent);
+  color: var(--sl-color-accent-high);
+  border-radius: 4px;
+  font-size: 0.85em;
+  cursor: pointer;
+  font-family: inherit;
+}
+.d4-reset-btn:hover {
+  background: var(--sl-color-accent-low);
+}
+
+/* Hero block on homepage */
+.d4-hero {
+  padding: 2rem 0 1rem;
+  border-bottom: 1px solid var(--d4-table-border);
+  margin-bottom: 2rem;
+}
+.d4-hero p.tagline {
+  font-size: 1.1rem;
+  color: var(--sl-color-text-accent);
+  margin: 0.5rem 0 0;
+}
+
+/* Section letter badge */
+.section-badge {
+  display: inline-block;
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-accent-high);
+  padding: 0.15rem 0.55rem;
+  border-radius: 3px;
+  font-size: 0.75em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  margin-right: 0.5rem;
+  text-transform: uppercase;
+}
