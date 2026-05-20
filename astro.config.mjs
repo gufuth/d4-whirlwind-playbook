@@ -39,7 +39,7 @@ export default defineConfig({
               items: [
                 { label: 'All Barb Builds', slug: 'builds/barbarian' },
                 { label: 'My Overpower Whirlwind', slug: 'builds/barbarian/whirlwind-overpower' },
-                { label: 'Whirlwind Speed', slug: 'builds/barbarian/whirlwind-speed' },
+                { label: 'swa99y Pit 150 (Frost)', slug: 'builds/barbarian/whirlwind-pit150-frost' },
                 { label: 'Whirlwind Immortal Selig', slug: 'builds/barbarian/whirlwind-immortal-selig' },
               ],
             },
