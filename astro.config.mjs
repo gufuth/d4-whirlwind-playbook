@@ -39,8 +39,8 @@ export default defineConfig({
               items: [
                 { label: 'All Barb Builds', slug: 'builds/barbarian' },
                 { label: 'My Overpower Whirlwind', slug: 'builds/barbarian/whirlwind-overpower' },
-                { label: 'swa99y Pit 150 (Frost)', slug: 'builds/barbarian/whirlwind-pit150-frost' },
-                { label: 'Whirlwind Immortal Selig', slug: 'builds/barbarian/whirlwind-immortal-selig' },
+                { label: 'wudijo Pelghain Frost', slug: 'builds/barbarian/whirlwind-pit150-frost' },
+                { label: 'Selig (legacy)', slug: 'builds/barbarian/whirlwind-immortal-selig' },
               ],
             },
             {

@@ -1,14 +1,21 @@
 ---
-title: 'Whirlwind Immortal Selig'
-description: 'The no-life immortal Whirlwind Barb variant using Melted Heart of Selig.'
+title: 'Whirlwind Immortal Selig (legacy, pre-Pelghain)'
+description: 'Older Selig variant from corridor transcripts. Superseded by wudijo Pelghain Frost.'
 ---
 
-Whirlwind Barbarian variant that becomes effectively immortal by running zero Maximum Life and channeling all incoming damage through resource via Melted Heart of Selig. Slower kill speed than the d4builds variant 5 but you basically don't die.
+:::caution[Honesty audit applied 2026-05-20]
+This page was originally drafted from two community video transcripts in the corridor's `new_transcripts/` folder (Rob and Rex's Lord of Hatred Whirlwind walkthroughs). I am NOT confident the gear list, glyphs, or specific aspects below match either creator's actual current spec — much of it was extrapolated from generic Whirlwind meta plus what those transcripts mentioned by name.
 
-## Source
+The modern Selig variant with frost tech is on the [wudijo Pelghain Frost](/builds/barbarian/whirlwind-pit150-frost/) page, drawn from wudijo's actual published Maxroll planner. That page is the current source of truth for "Selig WW build."
 
-- Originally consolidated from Rob and Rex community guides for Lord of Hatred (transcripts in `new_transcripts/new15` and `new_transcripts/new14` of the corridor).
-- Earlier version of this content lives in [§P Whirlwind Spotlight](/whirlwind-barb/) which will eventually be folded into this page.
+This page stays as a historical reference for the pre-Pelghain Selig framing. Don't act on specific gear suggestions here without cross-checking against a current planner.
+:::
+
+## Source (and what's wrong with it)
+
+- Originally consolidated from Rob and Rex community video transcripts: `new_transcripts/new14.txt` and `new_transcripts/new15.txt` in the corridor folder.
+- Earlier version of this content lives in [§P Whirlwind Spotlight (legacy)](/whirlwind-barb/).
+- **Problem:** I extracted general Selig-mechanic talking points from those transcripts but then filled in gear and aspect lists from generic Whirlwind sources rather than the creators' actual planners. So the mechanic framing is roughly correct; the specific gear list below was not directly sourced.
 
 ## Damage profile
 
