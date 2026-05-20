@@ -39,6 +39,7 @@ export default defineConfig({
               items: [
                 { label: 'All Barb Builds', slug: 'builds/barbarian' },
                 { label: 'My Overpower Whirlwind', slug: 'builds/barbarian/whirlwind-overpower' },
+                { label: 'Maxroll Meta (wudijo)', slug: 'builds/barbarian/whirlwind-maxroll' },
                 { label: 'Rob Spin2Win Whirlwind', slug: 'builds/barbarian/whirlwind-speed' },
                 { label: 'swa99y Pelghain Frost', slug: 'builds/barbarian/whirlwind-pit150-frost' },
                 { label: 'Selig (legacy)', slug: 'builds/barbarian/whirlwind-immortal-selig' },

@@ -1,4 +1,5 @@
 ---
+description: 'Gem farming options, Practice Technique gold loop, material density per zone.'
 title: 'K. Material Farming'
 ---
 
@@ -14,7 +15,7 @@ title: 'K. Material Farming'
 
 ### K2 — Recommended loop
 
-1. Every Legion Event on cooldown — use hellides.com to track timing.
+1. Every Legion Event on cooldown, use hellides.com to track timing.
 2. Infernal Hordes between Legion Events when you have keys.
 3. Whispers anywhere you're traveling.
 4. Hell Tide: ≥1 chest-opening pass per active Hell Tide.
@@ -34,7 +35,7 @@ title: 'K. Material Farming'
 |---|---|---|---|
 | **Sears Reach** (top-right of Teis) | 3 royals + chance for Grand | ~30 sec | The staple. Brainless. Reset → repeat. |
 | **Enclave of Darkness** (T1 capstone) | ~10 royals + chance for Grand | ~4–5 min | Higher per-run yield but slower. Worth it if you can do 1 Enclave faster than ~3.5 Sears Reaches. |
-| **Refuge of the Lost** (Scosglen, near Tirmeer) | 3 royals (similar to Sears Reach) | ~30 sec | Straight-line path — much harder to get lost than Sears Reach. |
+| **Refuge of the Lost** (Scosglen, near Tirmeer) | 3 royals (similar to Sears Reach) | ~30 sec | Straight-line path, much harder to get lost than Sears Reach. |
 
 :::tip[Do]
 pin trick (Sears Reach)

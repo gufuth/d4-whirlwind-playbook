@@ -1,4 +1,5 @@
 ---
+description: 'Infinite tempering re-rolls, masterworking crit targets, enchanter cost discipline.'
 title: 'D. Tempering & Masterworking'
 ---
 
@@ -19,5 +20,5 @@ title: 'D. Tempering & Masterworking'
 :::caution[Caveat]
 cost
 
-Enchanting at Occultist costs millions per re-roll endgame. Re-roll via the cube instead — tuning prism cost is trivial. Reserve the enchanter for the "lock GA" trick only.
+Enchanting at Occultist costs millions per re-roll endgame. Re-roll via the cube instead, tuning prism cost is trivial. Reserve the enchanter for the "lock GA" trick only.
 :::

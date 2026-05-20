@@ -1,4 +1,5 @@
 ---
+description: 'Time-gated events still active: Gift of the Tree, corrupted roots strategy, regional rewards table.'
 title: 'J. Limited-Time Farms'
 ---
 
@@ -11,7 +12,7 @@ Every Whisper Cache drops an extra "Gift of the Tree" cache. Legendary whisper c
 
 two
 
-gifts. Recursive multiplier — highest XP and material window of the season.
+gifts. Recursive multiplier, highest XP and material window of the season.
 :::
 
 #### 14-cache yield (measured)
@@ -25,7 +26,7 @@ gifts. Recursive multiplier — highest XP and material window of the season.
 
 #### Prerequisites
 
-- Practice Technique 3-set + Seal of Riches (up to 96% gold find — craft via 3-to-1 of cheap legendary shields)
+- Practice Technique 3-set + Seal of Riches (up to 96% gold find, craft via 3-to-1 of cheap legendary shields)
 - T10+ for the 300% gold multiplier
 - Crafting Material Drop Rate rolls on every spare charm slot
 
@@ -49,7 +50,7 @@ Acquisition: corrupted roots drop from whisper caches (~1-in-4 of Collection of 
 :::danger[Don't]
 strategy correction
 
-The shrine affix you need only appears on war-plan-assigned NMDs — NOT on NMDs you open with your own sigils. You must teleport into the NMD via the war plan's mini-map button, then check the affix list (top-left of map screen). Shrine affixes are uncommon — expect to cycle through multiple war plans before finding one. After looting, don't kill the boss — reset the dungeon for a chance to re-roll the same affixes.
+The shrine affix you need only appears on war-plan-assigned NMDs, NOT on NMDs you open with your own sigils. You must teleport into the NMD via the war plan's mini-map button, then check the affix list (top-left of map screen). Shrine affixes are uncommon, expect to cycle through multiple war plans before finding one. After looting, don't kill the boss, reset the dungeon for a chance to re-roll the same affixes.
 :::
 
 #### Strategy
@@ -60,11 +61,11 @@ The shrine affix you need only appears on war-plan-assigned NMDs — NOT on NMDs
 | 2 | Clear the entire dungeon. Note all shrine locations (most have 3, some 4). |
 | 3 | Do NOT kill the boss. |
 | 4 | Teleport back to the first shrine. |
-| 5 | Plant 5 corrupted roots — 1 at a time. Teleport out between each plant to skip the 30-sec cooldown. |
+| 5 | Plant 5 corrupted roots, 1 at a time. Teleport out between each plant to skip the 30-sec cooldown. |
 | 6 | Activate roots → activate shrine → kill everything. |
 | 7 | Carry shrine buff (10–15 sec left) to shrine 2. Wait for buff expiration. Gauntlet souls respawn → kill. |
 | 8 | Repeat at shrine 3. |
-| 9 | Stay at shrine 3 — Gauntlet souls respawn one more time = 4th wave. |
+| 9 | Stay at shrine 3, Gauntlet souls respawn one more time = 4th wave. |
 | 10 | End on Fearless Conviction chest with 150–265+ conviction stacks. |
 
 #### Required setup

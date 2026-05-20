@@ -1,4 +1,5 @@
 ---
+description: 'Required gameplay options, loot filter rule sets, the Codex search trick, UI cleanup.'
 title: 'L. Settings & QoL'
 ---
 
@@ -8,7 +9,7 @@ One-time setup, pays dividends every session.
 
 | Setting | Where | Value |
 |---|---|---|
-| Pathfinder dotted line | Gameplay → Navigation Assist | On — the killer feature |
+| Pathfinder dotted line | Gameplay → Navigation Assist | On, the killer feature |
 | HUD Compass (fallback) | Same menu | High-contrast green arrow |
 | High Contrast Cursor | Graphics | On, Large, Green |
 | **Advanced Tooltip Information** | Gameplay | **On (mandatory)** |
@@ -34,10 +35,10 @@ Activate from T3–T4 onwards.
 
 | # | Action | Why |
 |---|---|---|
-| 1 | Hide All — Common + Magic + Rare | Visual cleanup. You're never picking up an 850 yellow at endgame. |
-| 2 | Recolor — Codex Upgrade Check → **Purple** | Signals any item that would upgrade an aspect in your codex. |
-| 3 | Recolor — Magic/Rare with ≥1 GA → **Red** | Top-tier crafting bases. |
-| 4 | Show — Talisman Sets (Rare) — Charms + Horadric Seals | Rare set charms = 10 Infused Horadric Resin each. Stockpile. |
+| 1 | Hide All, Common + Magic + Rare | Visual cleanup. You're never picking up an 850 yellow at endgame. |
+| 2 | Recolor, Codex Upgrade Check → **Purple** | Signals any item that would upgrade an aspect in your codex. |
+| 3 | Recolor, Magic/Rare with ≥1 GA → **Red** | Top-tier crafting bases. |
+| 4 | Show, Talisman Sets (Rare), Charms + Horadric Seals | Rare set charms = 10 Infused Horadric Resin each. Stockpile. |
 
 Bind a Loot Filter Toggle key (default L) so you can verify and quick-disable for treasure checks.
 

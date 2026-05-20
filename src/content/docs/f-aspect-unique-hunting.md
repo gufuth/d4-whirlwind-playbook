@@ -1,10 +1,11 @@
 ---
+description: 'Purveyor of Curiosities aspect gambling, pale mark aspect bartering, unique recycling, unique power rolls, per-slot +skill affixes.'
 title: 'F. Aspect & Unique Hunting'
 ---
 
 ### F1 — Purveyor of Curiosities
 
-Gamble 1H weapons or focuses for guaranteed offensive aspects on upgrade. If gamble drops rare not legendary, Cube → Add Affix to upcycle (Pure Primordial Dust — you'll have 800+).
+Gamble 1H weapons or focuses for guaranteed offensive aspects on upgrade. If gamble drops rare not legendary, Cube → Add Affix to upcycle (Pure Primordial Dust, you'll have 800+).
 
 :::caution[Caveat]
 max roll

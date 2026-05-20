@@ -1,12 +1,13 @@
 ---
+description: 'Set charm rerolling, unique charm picks, seal hierarchy and Mythic Seal exploit windows.'
 title: 'G. Charms & Seals'
 ---
 
 ### G1 — Set charm rerolling
 
-Set charm default stats are terrible. Save spare set charms (don't salvage — raw material). Salvage extras for Infused Horadric Resin. Cube → Reroll Set Charm → 1 charm + 25 Raw Primordial Dust + 50 Infused Horadric Resin. Output is a different charm in the *same* set with re-rolled stats. Repeat until you hit GA on +core skills, vuln dmg, or crit dmg multi. Use Hold-F.
+Set charm default stats are terrible. Save spare set charms (don't salvage, raw material). Salvage extras for Infused Horadric Resin. Cube → Reroll Set Charm → 1 charm + 25 Raw Primordial Dust + 50 Infused Horadric Resin. Output is a different charm in the *same* set with re-rolled stats. Repeat until you hit GA on +core skills, vuln dmg, or crit dmg multi. Use Hold-F.
 
-GA on +core skills can effectively give you +5 to a primary skill — huge multiplier.
+GA on +core skills can effectively give you +5 to a primary skill, huge multiplier.
 
 ### G2 — Unique charms
 

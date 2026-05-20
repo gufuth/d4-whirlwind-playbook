@@ -15,7 +15,7 @@ Warlock launched with Season 13 / Lord of Hatred (April 28, 2026). Both builds u
 ## What they have in common
 
 - **Heir of Perdition** as the mythic helm of choice (or Crown of Lucion if you don't have it)
-- **Footfalls of the Waning World** boots — turns your Evade into Nether Step
+- **Footfalls of the Waning World** boots, turns your Evade into Nether Step
 - **Nether Step + Metamorphosis + Dark Prison + Blazing Scream** in the core skill bar
 - **Mercenary: Raheir + Varyana** reinforcement
 - Both want **Critical Strike Chance** capped via Heir + Aspect of Calamity + The Grandfather
@@ -45,17 +45,17 @@ Warlock launched with Season 13 / Lord of Hatred (April 28, 2026). Both builds u
 
 Warlocks bind to a Soul Shard Greater Demon that fights beside them. Each Shard has on-use abilities + passive effects. Your binding choice changes your build's damage shape more than anything else short of mythic gear.
 
-- **Mastermind Shard** — Grants Summon Laalish skill. Recast skills no longer break Shadowform stealth. Shadowform gives Abyss skills +30%x damage + 5% movement speed per stack. **Profane Sentinel + Blazing Abyss build pick.**
-- **Ritualist Shard** — 4% multiplicative damage per Overpower stack. Pair with Scorching Fragment for stackable Volatility damage. **Apocalypse build pick.**
-- **Blasphemous Fragment** — Recast skills Hex enemies, +20%x damage from your Abyss Demonology skills.
-- **Scorching Fragment** — Volatility stacks to 3, +10%x multiplicative damage per stack. Adds Life Cost (mitigate with Undying Aspect).
+- **Mastermind Shard**, Grants Summon Laalish skill. Recast skills no longer break Shadowform stealth. Shadowform gives Abyss skills +30%x damage + 5% movement speed per stack. **Profane Sentinel + Blazing Abyss build pick.**
+- **Ritualist Shard**, 4% multiplicative damage per Overpower stack. Pair with Scorching Fragment for stackable Volatility damage. **Apocalypse build pick.**
+- **Blasphemous Fragment**, Recast skills Hex enemies, +20%x damage from your Abyss Demonology skills.
+- **Scorching Fragment**, Volatility stacks to 3, +10%x multiplicative damage per stack. Adds Life Cost (mitigate with Undying Aspect).
 - **Mastermind + Blasphemous + Scorching** is the common 3-shard endgame combo for most builds.
 
 ## Sources cross-reference
 
-- [Mobalytics — Apocalypse Warlock (Sanctum)](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse)
-- [Mobalytics — Profane Sentinel Warlock (AceOfSpades)](https://mobalytics.gg/diablo-4/builds/warlock-profane-sentinel-endgame)
-- [Icy Veins — Hellfire Apocalypse Warlock](https://www.icy-veins.com/d4/guides/hellfire-apocalypse-warlock-build/)
-- [Icy Veins — Infinistep Blazing Abyss Warlock](https://www.icy-veins.com/d4/guides/blazing-abyss-warlock-build/) (sister build to Profane Sentinel, S-tier)
-- [Maxroll — Apocalypse Warlock Endgame](https://maxroll.gg/d4/build-guides/apocalypse-warlock-guide)
-- [Maxroll — Warlock Push Builds Tier List](https://maxroll.gg/d4/tierlists/warlock-push-builds-tier-list)
+- [Mobalytics, Apocalypse Warlock (Sanctum)](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse)
+- [Mobalytics, Profane Sentinel Warlock (AceOfSpades)](https://mobalytics.gg/diablo-4/builds/warlock-profane-sentinel-endgame)
+- [Icy Veins, Hellfire Apocalypse Warlock](https://www.icy-veins.com/d4/guides/hellfire-apocalypse-warlock-build/)
+- [Icy Veins, Infinistep Blazing Abyss Warlock](https://www.icy-veins.com/d4/guides/blazing-abyss-warlock-build/) (sister build to Profane Sentinel, S-tier)
+- [Maxroll, Apocalypse Warlock Endgame](https://maxroll.gg/d4/build-guides/apocalypse-warlock-guide)
+- [Maxroll, Warlock Push Builds Tier List](https://maxroll.gg/d4/tierlists/warlock-push-builds-tier-list)

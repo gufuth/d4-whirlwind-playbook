@@ -3,7 +3,7 @@ title: 'My Overpower Whirlwind'
 description: 'Ian''s current main build: Overpower Whirlwind with Tyrael''s Might + Heir of Perdition + Ring of Starless Skies + Grandfather.'
 ---
 
-Your current main spec. Overpower Whirlwind variant, sitting in S-tier on Mobalytics (last verified May 3, 2026). Distinct from the [Whirlwind Speed](/builds/barbarian/whirlwind-speed/) and [Immortal Selig](/builds/barbarian/whirlwind-immortal-selig/) variants — this one uses Tyrael's Might for raw toughness and scales damage through Overpower charges rather than no-life Selig conversion.
+Your current main spec. Overpower Whirlwind variant, sitting in S-tier on Mobalytics (last verified May 3, 2026). Distinct from the [Whirlwind Speed](/builds/barbarian/whirlwind-speed/) and [Immortal Selig](/builds/barbarian/whirlwind-immortal-selig/) variants, this one uses Tyrael's Might for raw toughness and scales damage through Overpower charges rather than no-life Selig conversion.
 
 ## What you're running
 
@@ -22,15 +22,15 @@ Your current main spec. Overpower Whirlwind variant, sitting in S-tier on Mobaly
 | **1H Crushing Aspect** | Legendary |
 | **Glyphs** | Dominate, Twister, Challenger, Marshal, Wrath |
 
-You have **all four mythics** that matter for this build: Heir of Perdition, Tyrael's Might, Ring of Starless Skies, Grandfather. The one mythic you're missing that Mobalytics ranks above Grandfather is **Tyrael's Sword of Justice (El'druin)** — a new Lord of Hatred mythic 1H sword. More on that under [Top upgrade lanes](#top-upgrade-lanes).
+You have **all four mythics** that matter for this build: Heir of Perdition, Tyrael's Might, Ring of Starless Skies, Grandfather. The one mythic you're missing that Mobalytics ranks above Grandfather is **Tyrael's Sword of Justice (El'druin)**, a new Lord of Hatred mythic 1H sword. More on that under [Top upgrade lanes](#top-upgrade-lanes).
 
 ## Damage profile
 
 Overpower-scaled, NOT Selig no-life. Damage flows through three multiplicative buckets that don't compete (see [§A. Damage Foundations](/a-damage-foundations/)):
 
-- **Channel + Berserk bucket** — Aspect of Channeling (amulet) for 50%x while channeling, Heir of Perdition for 80%x permanent, Wrath of the Berserker for Berserking
-- **Overpower bucket** — Heavy Hitting Aspect (ring) for tornado damage, Blood Boiling synergy via Tibault's Will + Dominate Glyph
-- **Crit bucket** — Ring of Starless Skies + Grandfather + Critical Strike Damage Multiplier on rings/amulet
+- **Channel + Berserk bucket**, Aspect of Channeling (amulet) for 50%x while channeling, Heir of Perdition for 80%x permanent, Wrath of the Berserker for Berserking
+- **Overpower bucket**, Heavy Hitting Aspect (ring) for tornado damage, Blood Boiling synergy via Tibault's Will + Dominate Glyph
+- **Crit bucket**, Ring of Starless Skies + Grandfather + Critical Strike Damage Multiplier on rings/amulet
 
 Heir of Perdition's Mother's Favor (+60% damage, +20% crit chance, +20% lucky hit, +2 to core skills) plus Ring of Starless Skies takes massive pressure off your other gear for baseline crit. That frees temper and masterwork rolls on every other slot for Whirlwind damage and physical multipliers.
 
@@ -43,11 +43,11 @@ Both still live as of May 13, 2026:
 :::
 
 :::danger[Don't socket Crusher on a 2H Mace]
-**Crusher Glyph's 20% multiplier doesn't work with 2H Maces.** You're already running Challenger as the workaround — keep it. If you ever swap to a non-Mace 2H, Crusher returns to viability.
+**Crusher Glyph's 20% multiplier doesn't work with 2H Maces.** You're already running Challenger as the workaround, keep it. If you ever swap to a non-Mace 2H, Crusher returns to viability.
 :::
 
 :::caution[Verify Wrath in-game]
-**Longstanding "Wrath does not work with Whirlwind crits" bug** — last confirmed-broken report from 2023, no Patch 3.0.2 fix confirmation. Pit-test it with Wrath socketed vs. swapped out for Might or Exploit. If the no-Wrath run is comparable or faster, swap. A dead glyph slot is the most expensive form of waste at endgame.
+**Longstanding "Wrath does not work with Whirlwind crits" bug**, last confirmed-broken report from 2023, no Patch 3.0.2 fix confirmation. Pit-test it with Wrath socketed vs. swapped out for Might or Exploit. If the no-Wrath run is comparable or faster, swap. A dead glyph slot is the most expensive form of waste at endgame.
 :::
 
 ## Top upgrade lanes (impact-ordered)
@@ -114,9 +114,9 @@ Tempering targets summary:
 
 **Skill bar:** Whirlwind · Iron Skin · Wrath of the Berserker · Rallying Cry · War Cry · Challenging Shout
 
-1. **Rallying Cry** — maintain. Costs Fury but ~60% generation boost outpaces the cost
-2. **Whirlwind** through enemies — channels Aspect of Channeling permanently
-3. **Wrath of the Berserker** on cooldown — gates Heir of Perdition's window + makes you unstoppable
+1. **Rallying Cry**, maintain. Costs Fury but ~60% generation boost outpaces the cost
+2. **Whirlwind** through enemies, channels Aspect of Channeling permanently
+3. **Wrath of the Berserker** on cooldown, gates Heir of Perdition's window + makes you unstoppable
 4. **War Cry** for burst against elites/bosses
 5. **Challenging Shout** when health drops
 6. **Iron Skin** when you need Fortify quickly
@@ -127,7 +127,7 @@ Tempering targets summary:
 
 **Mercenary:** Raheir (Ground Slam + Raheir's Aegis + Bastion + Inspiration). Reinforcement: **Varyana** with Bloodlust on any-skill-cast trigger.
 
-**Talisman:** Not yet documented — see upgrade lane #4.
+**Talisman:** Not yet documented, see upgrade lane #4.
 
 ## What's not in scope yet (need from you)
 
@@ -143,7 +143,7 @@ _Your current main spec. Working damage diagnosis above for the build that's und
 
 ## Sources
 
-- [Original full build assessment](https://github.com/gufuth/d4-whirlwind-playbook/blob/main/../../../build_assessment_v1.md) — May 18, 2026 detailed breakdown
+- [Original full build assessment](https://github.com/gufuth/d4-whirlwind-playbook/blob/main/../../../build_assessment_v1.md), May 18, 2026 detailed breakdown
 - [Mobalytics Whirlwind Barbarian (Season 13)](https://mobalytics.gg/diablo-4/builds/barbarian-whirl-wind-barb)
 - [Maxroll Whirlwind Endgame Build](https://maxroll.gg/d4/build-guides/whirlwind-barbarian-guide)
 - [Icy Veins Whirlwind](https://www.icy-veins.com/d4/guides/whirlwind-barbarian-build/)

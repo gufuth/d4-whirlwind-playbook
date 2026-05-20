@@ -7,11 +7,11 @@ Spam Umbral Chains to stack Apocalypse to 100, then unleash 100-stack nukes that
 
 ## Source
 
-- **Build:** [Mobalytics — Apocalypse Warlock Endgame (Sanctum)](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse) (updated May 11 2026)
+- **Build:** [Mobalytics, Apocalypse Warlock Endgame (Sanctum)](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse) (updated May 11 2026)
 - **Author:** Sanctum ([Twitch](https://www.twitch.tv/sanctum_ttv) · [YouTube](https://www.youtube.com/@goblin-inc))
 - **Validating guides:**
-  - [Maxroll — Apocalypse Warlock](https://maxroll.gg/d4/build-guides/apocalypse-warlock-guide)
-  - [Icy Veins — Hellfire Apocalypse Warlock](https://www.icy-veins.com/d4/guides/hellfire-apocalypse-warlock-build/)
+  - [Maxroll, Apocalypse Warlock](https://maxroll.gg/d4/build-guides/apocalypse-warlock-guide)
+  - [Icy Veins, Hellfire Apocalypse Warlock](https://www.icy-veins.com/d4/guides/hellfire-apocalypse-warlock-build/)
   - [NickTew's 1.000T Apocalypse Warlock](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse-endgame-nicktew)
 
 ## Strengths and weaknesses
@@ -39,8 +39,8 @@ The damage chain:
 
 | # | Slot | Item | Why |
 |---|---|---|---|
-| 1 | **Gloves** | **Hands of the Worldbreaker** | **MANDATORY** — converts Apocalypse into a Sigil skill |
-| 2 | **Chest** | Fleshwrit Carapace | Massive damage upgrade — not mandatory but huge over alternatives |
+| 1 | **Gloves** | **Hands of the Worldbreaker** | **MANDATORY**, converts Apocalypse into a Sigil skill |
+| 2 | **Chest** | Fleshwrit Carapace | Massive damage upgrade, not mandatory but huge over alternatives |
 | 3 | **Helm** | Heir of Perdition (mythic) | Best in slot. Attack Speed or Gem Strength transfig. |
 | 4 | **Amulet** | The Hemat Stone | Doubles the value of every Ritualist Shard / Scorching Fragment / Summon Vollach buff. Aspect of Rallying Reversal OR Undying Aspect transfig. |
 | 5 | **Ring 2** | Ring of Starless Skies (mythic) | +4 All Skills transfig. Removes the spam-cap on Chain Whips Umbral Chains. |
@@ -52,8 +52,8 @@ The damage chain:
 **Pre-mythic substitutes:** Use a regular amulet with strong rolls instead of forcing Seed of Horazon. Banished Lord's Talisman as charm before mythic.
 
 **Mandatory Soul Shards:**
-- **Ritualist Shard** — 4%x damage per Overpower stack
-- **Scorching Fragment** — Volatility +10%x per stack up to 3 (life cost mitigated by Undying)
+- **Ritualist Shard**, 4%x damage per Overpower stack
+- **Scorching Fragment**, Volatility +10%x per stack up to 3 (life cost mitigated by Undying)
 
 ## Skills & rotation
 
@@ -76,17 +76,17 @@ Same as Push but replace Bombardment with **Demonic Smash Rampage** spam for mob
 
 **Mercenary:** Raheir (Ground Slam + Bastion).
 
-**Talisman Seal + 5 Charms: Berú of the Nameless (Sigil set)** — works perfectly because Hands of the Worldbreaker makes Apocalypse a Sigil skill.
+**Talisman Seal + 5 Charms: Berú of the Nameless (Sigil set)**, works perfectly because Hands of the Worldbreaker makes Apocalypse a Sigil skill.
 
-**Final unique charm:** **Anathema of the Primes** — lets you use Demonic Smash Rampage as a mobility skill.
+**Final unique charm:** **Anathema of the Primes**, lets you use Demonic Smash Rampage as a mobility skill.
 
 :::caution[Mythic Seal Exploit (currently working)]
-**A bug can be abused if you have BOTH the Mythic -1 Seal and the Mythic 2-Uniques Seal.** Equip 2 unique charms with the Mythic 2-Uniques Seal, then swap to the Mythic -1 Seal — both effects persist simultaneously. Recommended pairing: Banished Lord's Talisman + Anathema of the Primes.
+**A bug can be abused if you have BOTH the Mythic -1 Seal and the Mythic 2-Uniques Seal.** Equip 2 unique charms with the Mythic 2-Uniques Seal, then swap to the Mythic -1 Seal, both effects persist simultaneously. Recommended pairing: Banished Lord's Talisman + Anathema of the Primes.
 :::
 
 **Charm affixes priority:**
 
-1. Occult/Hellfire Ranks (Occult is slightly better — also affects Nether Step)
+1. Occult/Hellfire Ranks (Occult is slightly better, also affects Nether Step)
 2. All Stats
 3. Maximum Life
 4. Lightning Resistance
@@ -110,7 +110,7 @@ Same as Push but replace Bombardment with **Demonic Smash Rampage** spam for mob
 :::danger[Don't]
 - Don't skip Undying Aspect when running Scorching Fragment. The Life Cost will kill you.
 - Don't expect Pyrosis to be better than Fathomless. Pyrosis is only worth more when you're one-shotting; otherwise Fathomless wins (+105%x vs ~20%x in practice).
-- Don't use Scepter of the Three — looks attractive (15 Ranks + 200%x multi) but the multi doesn't have enough uptime in practice.
+- Don't use Scepter of the Three, looks attractive (15 Ranks + 200%x multi) but the multi doesn't have enough uptime in practice.
 - Don't waste Wrath Regen affixes once you have Ring of Starless Skies. Before Ring of Starless Skies you NEED them.
 :::
 
@@ -130,17 +130,17 @@ _Use this space to track Apocalypse spec progress._
 
 ## Changelog (from source)
 
-- May 7 2026 — Push board updated
-- May 6 2026 — Both variants updated; Paragon Board changed Wrath to Unbound
-- May 5 2026 — Speedfarm variant added
-- May 1 2026 — Optimized damage and survivability
-- April 30 2026 — Build created
+- May 7 2026, Push board updated
+- May 6 2026, Both variants updated; Paragon Board changed Wrath to Unbound
+- May 5 2026, Speedfarm variant added
+- May 1 2026, Optimized damage and survivability
+- April 30 2026, Build created
 
 ## Sources
 
-- [Mobalytics — Apocalypse Warlock (Sanctum)](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse)
-- [Maxroll — Apocalypse Warlock Endgame Guide](https://maxroll.gg/d4/build-guides/apocalypse-warlock-guide)
-- [Icy Veins — Hellfire Apocalypse Warlock](https://www.icy-veins.com/d4/guides/hellfire-apocalypse-warlock-build/)
-- [Mobalytics — 1.000T Apocalypse Warlock (NickTew)](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse-endgame-nicktew)
+- [Mobalytics, Apocalypse Warlock (Sanctum)](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse)
+- [Maxroll, Apocalypse Warlock Endgame Guide](https://maxroll.gg/d4/build-guides/apocalypse-warlock-guide)
+- [Icy Veins, Hellfire Apocalypse Warlock](https://www.icy-veins.com/d4/guides/hellfire-apocalypse-warlock-build/)
+- [Mobalytics, 1.000T Apocalypse Warlock (NickTew)](https://mobalytics.gg/diablo-4/builds/warlock-apocalypse-endgame-nicktew)
 - [Overgear Apocalypse Warlock Guide](https://overgear.com/guides/diablo-4/apocalypse-warlock-build/)
-- Cross-reference [Warlock Builds Index — class mechanics primer](/builds/warlock/)
+- Cross-reference [Warlock Builds Index, class mechanics primer](/builds/warlock/)

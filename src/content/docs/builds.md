@@ -7,8 +7,8 @@ Personal tracker for the builds Ian is running, ranked within each class. Each b
 
 ## By class
 
-- **[Barbarian builds](/builds/barbarian/)** — Whirlwind variants. Current main.
-- **[Warlock builds](/builds/warlock/)** — Apocalypse and Profane Sentinel for the alt.
+- **[Barbarian builds](/builds/barbarian/)**, Whirlwind variants. Current main.
+- **[Warlock builds](/builds/warlock/)**, Apocalypse and Profane Sentinel for the alt.
 
 ## Page template
 

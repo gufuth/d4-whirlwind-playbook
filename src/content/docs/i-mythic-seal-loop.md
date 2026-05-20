@@ -1,4 +1,5 @@
 ---
+description: 'Mythic seal farm: Escalation NMD to Lesser Lair Boss to Butcher rotation. Best mythic source per key in 3.0.x.'
 title: 'I. Mythic Seal Loop'
 ---
 

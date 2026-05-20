@@ -1,4 +1,5 @@
 ---
+description: 'The hidden portal: location, requirements, what it unlocks.'
 title: 'M. Secret Portal'
 ---
 

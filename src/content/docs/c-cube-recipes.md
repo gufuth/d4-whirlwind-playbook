@@ -1,4 +1,5 @@
 ---
+description: 'Cube crafting recipes and amalgamation rules for items.'
 title: 'C. Cube Recipes'
 ---
 
@@ -23,7 +24,7 @@ title: 'C. Cube Recipes'
 | 5 gems (same tier) | Next gem tier up | Pairs with Sears Reach jewel farm |
 | 5 boss trophies (same) | Random unique from that lair boss | Convert trophy overflow to 14 forgotten souls/unique |
 | 3 mythic seals (same outcome) | 1 random new mythic seal | Reroll a useless mythic seal |
-| 3 cheap legendary shields | New shield, different affix pool — can roll **Seal of Riches (900% gold find)** | The gold-farm prerequisite |
+| 3 cheap legendary shields | New shield, different affix pool, can roll **Seal of Riches (900% gold find)** | The gold-farm prerequisite |
 
 :::tip[Do]
 qol

@@ -1,4 +1,5 @@
 ---
+description: 'War plan mandatory nodes per tree, including Dread Revival, gauntlet store mechanics, and the corrupted-roots-friendly setups.'
 title: 'H. War Plans'
 ---
 
@@ -29,7 +30,7 @@ Respec is 50M gold/pass. Commit to one setup per session.
 | Treasure Breaches + Goblin Fall + Horadric Hunters | Goblin land portals. Massive loot density. |
 | Hated Foe + Meat Brothers (swap) | Butchers spawn in NMDs. More loot, more Profane Mine Cages. |
 | Branching Pathways (Escalation only) | Choose reward type at final Asteroth tier. |
-| **Dread Revival** | NMD bosses have a chance to revive after kill — more boss kills = more escalation sigils + mythic seals. Critical for the mythic seal loop. |
+| **Dread Revival** | NMD bosses have a chance to revive after kill, more boss kills = more escalation sigils + mythic seals. Critical for the mythic seal loop. |
 
 Optional fillers: Waking Spoils, Ambush of Cold (Beast of Ice), Dog of Asteroth (Asteroth loot in NMD).
 
@@ -44,9 +45,9 @@ Optional fillers: Waking Spoils, Ambush of Cold (Beast of Ice), Dog of Asteroth 
 
 ### H4 — Undercity (priority order)
 
-1. Gutted Filth (left) — Portal Pranksters appear at beacons. With Mythic Tribute of Armament active, every prankster = guaranteed mythic. 4 mythics in one run is documented.
-2. Idols of War (middle) — extra tributes drop.
-3. +1 Monster Power (top) — last point.
+1. Gutted Filth (left), Portal Pranksters appear at beacons. With Mythic Tribute of Armament active, every prankster = guaranteed mythic. 4 mythics in one run is documented.
+2. Idols of War (middle), extra tributes drop.
+3. +1 Monster Power (top), last point.
 
 :::danger[Don't]
 trap
@@ -61,7 +62,7 @@ Pair with mythic-armament amalgamation (5 ancestral → 1 mythic) for constant s
 | Node | Effect |
 |---|---|
 | Lair of Runes + Lair of Plenty | Both add +1 monster power → dramatically better boss loot quality and mythic rate |
-| Ultimate Nemesis (3 nodes down-right) | Nemesis Portal after kill. **30-second window — enter fast.** Mythics drop. Can chain into deeper nemesis. |
+| Ultimate Nemesis (3 nodes down-right) | Nemesis Portal after kill. **30-second window, enter fast.** Mythics drop. Can chain into deeper nemesis. |
 | Gregori's Gambit | Synergy with Hell Tide chest spawns. High uniques chance. |
 | Final 1–2 points | Customize per content (Winter Glass for sorc, Essu boots, etc.) |
 
@@ -70,7 +71,7 @@ Pair with mythic-armament amalgamation (5 ancestral → 1 mythic) for constant s
 :::tip[Do]
 re-evaluated
 
-Sayur's analysis: Bartuc (the Infernal Hordes lair boss) has high mythic seal drop rate — possibly higher than Mephisto. The ether requirement (666 to summon) is the bottleneck, but the upgrades below make it tractable. Now worth running, not skipping.
+Sayur's analysis: Bartuc (the Infernal Hordes lair boss) has high mythic seal drop rate, possibly higher than Mephisto. The ether requirement (666 to summon) is the bottleneck, but the upgrades below make it tractable. Now worth running, not skipping.
 :::
 
 | Node | Effect |
@@ -87,10 +88,10 @@ To level the tree solo: party with 3+ players, rotate joins so all benefit from 
 If glyphs are sub-150:
 
 1. +1 Glyph Upgrade Chance (priority #1)
-2. Butcher in Pit — when he dies, pit ends instantly + instant glyph upgrade
-3. Heart of Stone — progression orbs from kills speed the pit
-4. Thief Goblins — extra goblins drop progression orbs
-5. Optional: Cronus Soul — XP boost (mediocre payoff)
+2. Butcher in Pit, when he dies, pit ends instantly + instant glyph upgrade
+3. Heart of Stone, progression orbs from kills speed the pit
+4. Thief Goblins, extra goblins drop progression orbs
+5. Optional: Cronus Soul, XP boost (mediocre payoff)
 
 ### H8 — Mythic War Plan Quests (rank 10)
 

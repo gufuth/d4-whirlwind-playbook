@@ -1,16 +1,17 @@
 ---
 title: 'Barbarian Builds'
-description: 'Four Whirlwind variants tracked.'
+description: 'Five Whirlwind variants tracked.'
 ---
 
-Four Whirlwind variants tracked. They share the spin core but use different gear and scaling vectors.
+Five Whirlwind variants tracked. They share the spin core but use different gear and scaling vectors.
 
-## The four pages
+## The five pages
 
-- **[My Overpower Whirlwind](/builds/barbarian/whirlwind-overpower/)** — Your current main spec. Sourced from your `build_assessment_v1.md` (2026-05-18): Heir of Perdition + Tyrael's Might + Ring of Starless Skies + Grandfather, Overpower-scaled. Has the Patch 3.0.2 bug notes, El'druin upgrade lane, Kalian amulet transfig priority.
-- **[Rob Spin2Win Whirlwind](/builds/barbarian/whirlwind-speed/)** — Rob2628's d4builds variant 5. The build you have in your armory but where damage isn't landing. Selig immortal base, sourced directly from the d4builds.gg page via Playwright (gear list, fury rules, immortal breakpoints, rotation — all verbatim from Rob's notes).
-- **[swa99y Pelghain Frost](/builds/barbarian/whirlwind-pit150-frost/)** — swa99y's Pit 150 build. Same Selig base as Rob's, plus the new **Signet of Pelghain** unique ring + **Thul** rune for frozen CC. The new-tech experiment you haven't built yet. Sourced from the linked Maxroll planner via Playwright (gear, talisman, paragon boards, mercenary, all author notes verbatim) + your PDF screencapture for cross-validation.
-- **[Selig (legacy)](/builds/barbarian/whirlwind-immortal-selig/)** — Pre-Pelghain Selig content I drafted from older transcripts in the corridor. Carries an honesty caveat at the top: gear list was extrapolated, not directly sourced. Kept as historical reference. The current Selig truth lives on the two pages above.
+- **[My Overpower Whirlwind](/builds/barbarian/whirlwind-overpower/)**, Your current main spec. Sourced from your `build_assessment_v1.md` (2026-05-18): Heir of Perdition + Tyrael's Might + Ring of Starless Skies + Grandfather, Overpower-scaled. Has the Patch 3.0.2 bug notes, El'druin upgrade lane, Kalian amulet transfig priority.
+- **[Maxroll Meta (wudijo / AoinoMiku)](/builds/barbarian/whirlwind-maxroll/)**, The Maxroll endgame guide hosted on wudijo's profile, authored by AoinoMiku. Default Endgame plus three Overpower swap variants (Speedfarm, Push, Push Selig). Tibault's Will + Channeling on amulet + Sescheron's Fury 5-set + Crown of Lucion. The canonical Maxroll meta if you want chill spin2win without the Pelghain frost layer.
+- **[Rob Spin2Win Whirlwind](/builds/barbarian/whirlwind-speed/)**, Rob2628's d4builds variant 5. The build you have in your armory but where damage isn't landing. Selig immortal base, sourced directly from the d4builds.gg page via Playwright.
+- **[swa99y Pelghain Frost](/builds/barbarian/whirlwind-pit150-frost/)**, swa99y's Pit 150 build. Same Selig base as Rob's, plus the new **Signet of Pelghain** unique ring + **Thul** rune for frozen CC. The new-tech experiment you haven't built yet. Sourced from the Maxroll planner via Playwright + your PDF screencapture for cross-validation.
+- **[Selig (legacy)](/builds/barbarian/whirlwind-immortal-selig/)**, Pre-Pelghain Selig content I drafted from older transcripts in the corridor. Carries an honesty caveat at the top: gear list was extrapolated, not directly sourced. Kept as historical reference. The current Selig truth lives on the swa99y page above.
 
 ## What I will NOT do on these pages
 
@@ -42,22 +43,12 @@ The Pelghain ring + Thul rune is the meaningful difference. Upgrade path from Ro
 Applies to any Whirlwind variant.
 
 :::danger[Limitless Rage passive +Fury/s doesn't stack]
-Aspect of Limitless Rage does NOT gain stacks from passive Resource Generation sources. Don't temper "+X Fury per Second" — use Lucky Hit: Chance to Restore Primary Resource on rings/amulet instead. Source: [Blizzard forum thread](https://us.forums.blizzard.com/en/d4/t/limitless-rage-glyph-%E2%80%93-passive-%E2%80%9Cfury-per-second%E2%80%9D-affixes-do-not-contribute-to-damage-stacks/251423).
+Aspect of Limitless Rage does NOT gain stacks from passive Resource Generation sources. Don't temper "+X Fury per Second", use Lucky Hit: Chance to Restore Primary Resource on rings/amulet instead. Source: [Blizzard forum thread](https://us.forums.blizzard.com/en/d4/t/limitless-rage-glyph-%E2%80%93-passive-%E2%80%9Cfury-per-second%E2%80%9D-affixes-do-not-contribute-to-damage-stacks/251423).
 :::
 
 :::danger[Crusher Glyph broken on 2H Maces]
 The 20% multiplier doesn't fire on 2H Maces. Use **Challenger** as the workaround. Source: [Blizzard forum thread](https://us.forums.blizzard.com/en/d4/t/crusher-glyph-2h-mace/252519).
 :::
 
-:::caution[Wrath Glyph + Whirlwind crits — verify in-game]
-Longstanding bug report from 2023, no Patch 3.0.2 fix confirmation. Pit-test Wrath socketed vs swapped out for Might or Exploit. If no-Wrath is comparable or faster, swap.
-:::
-
-## Sources
-
-Sources here are general Whirlwind references; for build-specific sources see each individual page.
-
-- [Maxroll Whirlwind Endgame Guide](https://maxroll.gg/d4/build-guides/whirlwind-barbarian-guide)
-- [Icy Veins Whirlwind Barbarian](https://www.icy-veins.com/d4/guides/whirlwind-barbarian-build/)
-- [Mobalytics Whirlwind (Raxxanterax)](https://mobalytics.gg/diablo-4/builds/barbarian-whirl-wind-barb)
-- [Maxroll Patch 3.0.2 notes](https://maxroll.gg/d4/news/lord-of-hatred-3-0-2-patch-notes)
+:::caution[Wrath Glyph + Whirlwind crits, verify in-game]
+Longstanding bug report from 2023, no P
