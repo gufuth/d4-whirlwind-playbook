@@ -38,7 +38,8 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { label: 'All Barb Builds', slug: 'builds/barbarian' },
-                { label: 'Whirlwind Variant 5 (d4builds)', slug: 'builds/barbarian/whirlwind-d4builds-v5' },
+                { label: 'My Overpower Whirlwind', slug: 'builds/barbarian/whirlwind-overpower' },
+                { label: 'Whirlwind Speed', slug: 'builds/barbarian/whirlwind-speed' },
                 { label: 'Whirlwind Immortal Selig', slug: 'builds/barbarian/whirlwind-immortal-selig' },
               ],
             },

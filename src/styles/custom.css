@@ -102,27 +102,37 @@
 }
 .starlight-aside--danger .starlight-aside__title { color: var(--d4-dont-text); }
 
-/* Task-list checkboxes: clickable, larger, with completed strikethrough */
+/* Task-list checkboxes: clickable, larger, with completed strikethrough.
+   IMPORTANT: do NOT use display:flex on the li, because that turns every
+   inline child (checkbox, <strong>, trailing text) into its own column.
+   Instead, indent the li and position the checkbox absolutely so the rest
+   of the content flows as one continuous paragraph. */
 .sl-markdown-content ul.contains-task-list,
 .sl-markdown-content ul:has(> li > input[type="checkbox"]) {
   list-style: none;
-  padding-left: 0.5rem;
+  padding-left: 0;
 }
 .sl-markdown-content li.task-list-item,
 .sl-markdown-content li:has(> input[type="checkbox"]) {
-  padding: 0.25rem 0;
-  display: flex;
-  align-items: flex-start;
-  gap: 0.65rem;
-  line-height: 1.5;
+  position: relative;
+  padding: 0.45rem 0 0.45rem 2rem;
+  line-height: 1.55;
+  margin: 0;
+  border-bottom: 1px dashed var(--d4-table-border);
+}
+.sl-markdown-content li.task-list-item:last-child,
+.sl-markdown-content li:last-child:has(> input[type="checkbox"]) {
+  border-bottom: none;
 }
 .sl-markdown-content li input[type="checkbox"] {
-  margin-top: 0.35rem;
-  width: 1.05rem;
-  height: 1.05rem;
+  position: absolute;
+  left: 0.25rem;
+  top: 0.7rem;
+  width: 1.1rem;
+  height: 1.1rem;
   accent-color: var(--sl-color-accent);
   cursor: pointer;
-  flex-shrink: 0;
+  margin: 0;
 }
 .sl-markdown-content li.task-completed,
 .sl-markdown-content li:has(> input[type="checkbox"]:checked) {
