@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://d4-whirlwind.netlify.app',
+  site: 'https://d4-whirlwind-playbook.netlify.app',
   integrations: [
     starlight({
       title: 'D4 S13 Playbook',
@@ -18,7 +18,6 @@ export default defineConfig({
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
       lastUpdated: true,
       pagination: true,
-      social: [],
       components: {
         // Reserved for future custom overrides
       },
