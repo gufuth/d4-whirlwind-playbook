@@ -17,7 +17,7 @@ title: 'C. Cube Recipes'
 
 | Input | Output | Use |
 |---|---|---|
-| 5 runes (same tier) | 1 random rune, next tier up | Convert useless runes (Zan, Tam, Seir) → legendary runes (Jah, Que, Gar) |
+| 5 runes (same tier) | 1 random rune, next tier up | Convert useless runes (Zan, Tam, Seir) → legendary runes (<span class="d4-item" title="Rune. Cooldown reduction trigger; pairs with Ner for Tibault's Will activation.">Jah</span>, <span class="d4-item" title="Rune. Cooldown-related offering.">Que</span>, <span class="d4-item" title="Rune. Crit chance buff per offering stack. Pairs with Bac on 2H bludgeoning.">Gar</span>) |
 | 5 NMD sigils | 1 Escalation NMD sigil | Sustains the mythic loop |
 | 5 ancestral Tributes of Armament | 1 mythic tribute | Mythic-unique guarantee with Portal Pranksters |
 | 5 tributes (same tier) | 1 of next tier (rare → legendary → mythic) | Always upgrade before using |

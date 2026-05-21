@@ -7,8 +7,8 @@ Personal tracker for the builds Ian is running, ranked within each class. Each b
 
 ## By class
 
-- **[Barbarian builds](/builds/barbarian/)**, Whirlwind variants. Current main.
-- **[Warlock builds](/builds/warlock/)**, Apocalypse and Profane Sentinel for the alt.
+- **[Barbarian builds](/builds/barbarian/)**, <span class="d4-item" title="Core Barbarian skill. Hold-to-channel spin (reworked in Lord of Hatred; no more click-spam). Spawns Dust Devils at level 15+.">Whirlwind</span> variants. Current main.
+- **[Warlock builds](/builds/warlock/)**, <span class="d4-item" title="Warlock Ultimate. Converted by Hands of the Worldbreaker into a sigil skill (no cooldown). Stacks to 100 via Hellfire skill hits.">Apocalypse</span> and <span class="d4-item" title="Warlock skill. Summons sentinels that apply Vulnerable + AoE damage. Recast adds more sentinels.">Profane Sentinel</span> for the alt.
 
 ## Page template
 

@@ -170,6 +170,23 @@
   margin: 0.5rem 0 0;
 }
 
+/* D4 item tooltip: dotted underline cues that the term is hoverable for a description */
+.sl-markdown-content .d4-item {
+  border-bottom: 1px dotted var(--sl-color-text-accent);
+  cursor: help;
+  /* Avoid layout shift: dotted underline is purely visual */
+  text-decoration: none;
+}
+.sl-markdown-content .d4-item:hover {
+  color: var(--sl-color-accent-high);
+  border-bottom-color: var(--sl-color-accent);
+}
+/* Inside table cells the underline can get noisy; tone it down */
+.sl-markdown-content table .d4-item {
+  border-bottom-style: dotted;
+  border-bottom-color: rgba(150, 150, 150, 0.4);
+}
+
 /* Section letter badge */
 .section-badge {
   display: inline-block;

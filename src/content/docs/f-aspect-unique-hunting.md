@@ -29,7 +29,7 @@ Mercenaries accumulate Pale Marks just from play. Claim from the rapport screen,
 | Masterwork Materials Cache | Masterwork mats |
 | Opals & Obols Cache | Opals + Obols |
 
-Open caches → salvage at Blacksmith → game auto-updates the codex if any roll beats your current max. Mercenary leveling unlocks specific cache types (Oriana = opals + masterwork; Subo = boss summons).
+Open caches → salvage at Blacksmith → game auto-updates the codex if any roll beats your current max. Mercenary leveling unlocks specific cache types (Oriana = opals + masterwork; <span class="d4-item" title="Mercenary providing visibility + movement speed. Brings CC — excluded from Pelghain setups.">Subo</span> = boss summons).
 
 ### F3 — Recycle uniques
 

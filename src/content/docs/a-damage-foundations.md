@@ -52,7 +52,7 @@ Each +rank to a build-relevant skill works as efficiently as an All Damage multi
 | Skill | With +3 ranks | Without | Delta |
 |---|---|---|---|
 | Boulder (Druid) | 318% multi | 297% multi | ~21% bonus per +3 |
-| Call of the Ancients (Barb ulti) | 594% multi | 554% multi | **~40% bonus per +3** |
+| <span class="d4-item" title="Barbarian Ultimate alternative. Highlander upgrade reduces cooldown to 2 seconds for constant Attack Speed + Damage Bonus uptime.">Call of the Ancients</span> (Barb ulti) | 594% multi | 554% multi | **~40% bonus per +3** |
 | Zeal (Paladin) | 272% multi | 256% multi | ~16% bonus per +2 |
 
 A typical build can stack +18 ranks across charms, amulet, and gloves. That alone is often the billions→trillions move.
@@ -99,9 +99,9 @@ Universal best mercenary for damage scaling on most builds:
 
 | Setup | Effect |
 |---|---|
-| **Bastion + Inspiration** | Enemies hit by Raheir's ground slam take +15% damage; you deal +25% more damage with Bastion active. Universal multiplier. |
-| Mocking Lure (alt) | Increased damage to enemies taunted by Raheir |
-| Iron Wolf's Call (alt) | When Raheir's Valiants triggers, next 4 core skills within 10 sec deal +25% damage at no resource cost, best on core-skill builds |
+| **Bastion + Inspiration** | Enemies hit by <span class="d4-item" title="Shieldbearer mercenary. Ground Slam + Bastion + Inspiration. Defensive backbone with damage multiplier. Used as Hired on most Whirlwind setups.">Raheir</span>'s ground slam take +15% damage; you deal +25% more damage with Bastion active. Universal multiplier. |
+| Mocking Lure (alt) | Increased damage to enemies taunted by <span class="d4-item" title="Shieldbearer mercenary. Ground Slam + Bastion + Inspiration. Defensive backbone with damage multiplier. Used as Hired on most Whirlwind setups.">Raheir</span> |
+| Iron Wolf's Call (alt) | When <span class="d4-item" title="Shieldbearer mercenary. Ground Slam + Bastion + Inspiration. Defensive backbone with damage multiplier. Used as Hired on most Whirlwind setups.">Raheir</span>'s Valiants triggers, next 4 core skills within 10 sec deal +25% damage at no resource cost, best on core-skill builds |
 
 The right-side passive choice depends on stat priority: take resistance if capped on armor; take armor if capped on resists.
 

@@ -68,7 +68,7 @@ The only slot where Kalian adds a 2nd Legendary aspect AND leaves the item modif
 | 1 | Find a 900+ IP amulet with at least 1 GA in a stat you want (crit dmg multi, crit chance, all skills, vuln dmg) |
 | 2 | Lock the GA. Add Affix / Focus Reroll to fill out other offensive affixes. |
 | 3 | Add a socket. |
-| 4 | Imprint your build's most important aspect (e.g., Aspect of Channeling for Whirlwind). |
+| 4 | Imprint your build's most important aspect (e.g., <span class="d4-item" title="Legendary Aspect. While channeling a skill (Whirlwind), all damage is increased by 50-70%x. Always-on for Whirlwind builds.">Aspect of Channeling</span> for <span class="d4-item" title="Core Barbarian skill. Hold-to-channel spin (reworked in Lord of Hatred; no more click-spam). Spawns Dust Devils at level 15+.">Whirlwind</span>). |
 | 5 | Transfigure with Kalian → adds a 2nd random Legendary aspect. |
 | 6 | Keep Kalian-rerolling until you land on a 2nd aspect you want. |
 | 7 | *Optional final step:* a 2nd transfig with Entropic locks the item permanently and adds a small bonus (quality 1–15). Top players sometimes go raw here for higher bonus odds, leaderboard #1 did. |

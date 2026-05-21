@@ -102,5 +102,5 @@ Need forgotten souls (the universal crafting bottleneck)? Use roots in Hawezar N
 :::danger[Don't]
 cons
 
-Needs a strong, tanky, fast build (~8M combat toughness; El'druin for permaport recommended). Avoid Hunter dungeons. Never override shrines. Loot can despawn if too much drops. Party splits root density. Will not be worth running after Gift of the Tree ends.
+Needs a strong, tanky, fast build (~8M combat toughness; <span class="d4-item" title="Alternative name for Tyrael's Sword of Justice. Mythic Unique 1H Sword. Elite kills reduce all skill cooldowns by 10s for 12s.">El'druin</span> for permaport recommended). Avoid Hunter dungeons. Never override shrines. Loot can despawn if too much drops. Party splits root density. Will not be worth running after Gift of the Tree ends.
 :::

@@ -22,7 +22,7 @@ title: 'O. Source Index'
 | 15 | Updated Warplan Meta | Tree refresh, Mythic War Plan Quest discovery |
 | 16 | Try These Settings (Pony) | All settings, controls, loot filter 4 rules, equipped codex trick, combat text |
 | 17 | New Crafting Method, Mass-Transfig (Pony) | Spam-transfig pipeline for Gem Strength weapons; mythic recycling logic; production-line crafting |
-| 18 | Why Your Damage Is Only Billions (Pony) | Multiplicative damage law (same-type adds, different-type multiplies); skill ranks as hidden multipliers; paragon legendary-node priority; Raheir mercenary picks; crafting workflow per slot with category prisms |
+| 18 | Why Your Damage Is Only Billions (Pony) | Multiplicative damage law (same-type adds, different-type multiplies); skill ranks as hidden multipliers; paragon legendary-node priority; <span class="d4-item" title="Shieldbearer mercenary. Ground Slam + Bastion + Inspiration. Defensive backbone with damage multiplier. Used as Hired on most Whirlwind setups.">Raheir</span> mercenary picks; crafting workflow per slot with category prisms |
 | 19 | Enclave of Darkness Gem Farm (Lieber) *v5* | Capstone-dungeon alt to Sears Reach, ~10 royal gems per 4–5 min run |
 | 20 | Worthy Prince, Refuge of the Lost *v5* | Straight-line alt gem farm in Scosglen, similar yield to Sears Reach |
 | 21 | Sears Reach Pin Trick (Sliver) *v5* | Corner-pin trick for permanent boss-location pin across resets |
@@ -39,5 +39,5 @@ title: 'O. Source Index'
 | 32 | Slipper, XP/Cache Roots Variant *v5* | Critical correction: shrine affix only appears on war-plan NMDs, not your own sigils. Dread Revival node added. |
 | 33 | Sliver, War Plan XP Group Join *v5* | ~4× XP for war plans by joining a public group at the target activity |
 | 34 | Pony, Cube Crafting Refresher *v5* | Comprehensive cube guide; Forgotten Souls is the universal bottleneck |
-| 35 | Rob, Immortal Whirlwind Barb FHQ *v5* | Deep build guide for Whirlwind, consolidated into §P |
-| 36 | Rex, Final Whirlwind Barb Season Guide *v5* | Endgame Whirlwind walkthrough; no-life paragon pathing; immortality math. Consolidated into §P. |
+| 35 | Rob, Immortal <span class="d4-item" title="Core Barbarian skill. Hold-to-channel spin (reworked in Lord of Hatred; no more click-spam). Spawns Dust Devils at level 15+.">Whirlwind</span> Barb FHQ *v5* | Deep build guide for <span class="d4-item" title="Core Barbarian skill. Hold-to-channel spin (reworked in Lord of Hatred; no more click-spam). Spawns Dust Devils at level 15+.">Whirlwind</span>, consolidated into §P |
+| 36 | Rex, Final <span class="d4-item" title="Core Barbarian skill. Hold-to-channel spin (reworked in Lord of Hatred; no more click-spam). Spawns Dust Devils at level 15+.">Whirlwind</span> Barb Season Guide *v5* | Endgame <span class="d4-item" title="Core Barbarian skill. Hold-to-channel spin (reworked in Lord of Hatred; no more click-spam). Spawns Dust Devils at level 15+.">Whirlwind</span> walkthrough; no-life paragon pathing; immortality math. Consolidated into §P. |

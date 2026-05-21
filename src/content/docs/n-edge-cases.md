@@ -12,7 +12,7 @@ title: 'N. Edge Cases'
 | N5 | Strong Rooms → Escalation sigils | Horadric Strong Rooms in regular NMDs have high chance. Don't skip. |
 | N6 | Rob's loot filter (downloadable) | Published JSON on his site. Import via Options → Gameplay → Loot Filter → Import. |
 | N7 | Discord mythic rotations | 4 players × 5 tributes = 16–20 mythic chances/session. Multiple creators run public LFG servers. |
-| N8 | T12 toughness floor ≈ 8M | Pushing T12 reliably on Whirlwind shape needs ~8M combat-effective toughness. Lower = scary on multi-Hated-Foe spawns. |
+| N8 | T12 toughness floor ≈ 8M | Pushing T12 reliably on <span class="d4-item" title="Core Barbarian skill. Hold-to-channel spin (reworked in Lord of Hatred; no more click-spam). Spawns Dust Devils at level 15+.">Whirlwind</span> shape needs ~8M combat-effective toughness. Lower = scary on multi-Hated-Foe spawns. |
 | N9 | Mythic tribute pipeline | Save every legendary Tribute of Armament. 5 → Amalgamation → 1 mythic. 4-player party rotation = 1 tribute → 4 runs → 4–16 mythics. |
 | N10 | Pale Marks side stream | Mercenary rapport accumulates as you play. Claim regularly → Boss Material Cache → free lair keys. |
 | N11 | Pit Obelisk Artifact Stash | Left of the Pit Obelisk. A few pit rounds → loot caches with masterwork mats, tempering mats, runes, gear, talisman items. Tiny effort, real return. |
