@@ -3,6 +3,10 @@ description: 'Time-gated events still active: Gift of the Tree, corrupted roots 
 title: 'J. Limited-Time Farms'
 ---
 
+:::tip[Big win]
+**Burn the Gift of the Tree event before it ends (~May 20).** Doubles every legendary whisper cache, highest XP/material window of the season. Pair with the Corrupted Roots farm for cascading rewards.
+:::
+
 ### J1 — Gift of the Tree (ends ~May 20)
 
 :::tip[Do]

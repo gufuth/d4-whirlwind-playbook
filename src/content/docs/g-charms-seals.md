@@ -3,6 +3,10 @@ description: 'Set charm rerolling, unique charm picks, seal hierarchy and Mythic
 title: 'G. Charms & Seals'
 ---
 
+:::tip[Big win]
+**Mythic Seal = 6 charm slots with stacking bonuses.** <span class="d4-item" title="Unique Amulet (also used as charm via Unique Charm). After spending primary resource, your next core skill is guaranteed Overpower. Centerpiece of Overpower builds.">Banished Lord's Talisman</span> is the Overpower-build centerpiece. Set charm rerolling at the cube turns trash charms into your active 5-set.
+:::
+
 ### G1 — Set charm rerolling
 
 Set charm default stats are terrible. Save spare set charms (don't salvage, raw material). Salvage extras for Infused Horadric Resin. Cube → Reroll Set Charm → 1 charm + 25 Raw Primordial Dust + 50 Infused Horadric Resin. Output is a different charm in the *same* set with re-rolled stats. Repeat until you hit GA on +core skills, vuln dmg, or crit dmg multi. Use Hold-F.

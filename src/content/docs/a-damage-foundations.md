@@ -3,6 +3,10 @@ description: 'How damage actually scales in D4: additive vs multiplicative bucke
 title: 'A. Damage Foundations'
 ---
 
+:::tip[Big win]
+**Same-type damage stacks adds. Different-type multiplies.** Three crit damage rolls = small box. Crit × Vulnerable × All Damage × Channeling × Berserking = big box. This single principle separates billions from trillions.
+:::
+
 Why your build does billions when the guide says trillions. The four foundational levers, multiplier diversity, skill ranks, paragon legendary nodes, mercenary pick, usually close the gap before any gear change.
 
 ### A1 — The Multiplicative Damage Law

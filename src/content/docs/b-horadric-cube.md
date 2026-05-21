@@ -3,6 +3,10 @@ description: 'Tuning prism types, cube roll types, the Lock GA enchanter trick, 
 title: 'B. Horadric Cube'
 ---
 
+:::tip[Big win]
+**Lock GAs via the enchanter no-change trick before any cube work.** Never use Entropic Tuning Prisms on weapons (caps Gem Strength permanently). Kalian Tuning Prism only on amulet (only slot that gets a second Legendary aspect). The mass-transfig pipeline = cheap blue weapons + raw transfig + hunt Gem Strength to 339%+.
+:::
+
 Four moves: lock GAs, transfigure weapons raw, Kalian on amulets, right prism for the right roll.
 
 ### B1 — Tuning Prism Types
@@ -87,3 +91,21 @@ good to know
 
 Sockets stay swappable on unmodifiable items. Even after transfig locks an item, the jeweler can still swap gems. Don't fear gem commitment.
 :::
+
+## Gem Strength: the source chain (2026 meta)
+
+The top-leaderboard "secret": weapons with **Gem Strength rolls around 339%** turn each socketed grand gem from 32% into ~141% damage multi. Two gems alone provide ~282% damage multi from the weapon. More than a fully-rolled non-Gem-Strength weapon's total.
+
+How to feed the loop cheaply:
+
+1. **Run Escalation NMD with Opal affixes**. Loot the opal chest at the end.
+2. **Convert the obols** at the Purveyor on weapons.
+3. **One inventory of gambled weapons** gives a strong chance at one Gem Strength hit per session.
+4. **Raw transfigure each weapon** with Volatile Primordial Dust (cheap, ~12 per Undercity Tribute of the Harajum run).
+
+Source: [Gem Strength weapon farm method (ULUSsikTECM)](https://www.youtube.com/watch?v=ULUSsikTECM).
+
+## Wanders' cube tips + spreadsheet
+
+[Wanders has a full crafting spreadsheet](https://www.youtube.com/watch?v=BBDSZtiZRj0) mapping every affix to its category, so you know exactly which category will be safe to roll when you Chaotic Reroll vs Focus Reroll. Worth opening when planning a craft.
+

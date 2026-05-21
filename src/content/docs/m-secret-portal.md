@@ -3,6 +3,10 @@ description: 'The hidden portal: location, requirements, what it unlocks.'
 title: 'M. Secret Portal'
 ---
 
+:::tip[Big win]
+**The secret portal is in a specific spot per zone.** Triggering it requires reading the clue plaques. See the location list below.
+:::
+
 A grey "echoring nightmare" portal skin (D3 throwback) from a hidden Trace of Echoes sequence (rare drop from Sideless Eye, party-shareable).
 
 | Wave Range | Click This Shrine |

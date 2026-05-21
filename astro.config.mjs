@@ -25,6 +25,7 @@ export default defineConfig({
         {
           label: 'Quick Start',
           items: [
+            { label: 'What do you want?', slug: 'goals' },
             { label: 'Cheatsheet', slug: 'cheatsheet' },
           ],
         },
@@ -69,6 +70,7 @@ export default defineConfig({
             { label: 'G. Charms & Seals', slug: 'g-charms-seals' },
             { label: 'H. War Plans', slug: 'h-war-plans' },
             { label: 'P. Whirlwind Spotlight (legacy)', slug: 'whirlwind-barb' },
+            { label: 'Q. Echoing Hatred', slug: 'q-echoing-hatred' },
             { label: 'I. Mythic Seal Loop', slug: 'i-mythic-seal-loop' },
             { label: 'J. Limited-Time Farms', slug: 'j-limited-time-farms' },
             { label: 'K. Material Farming', slug: 'k-material-farming' },

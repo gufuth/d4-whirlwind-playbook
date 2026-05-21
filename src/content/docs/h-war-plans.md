@@ -3,6 +3,10 @@ description: 'War plan mandatory nodes per tree, including Dread Revival, gauntl
 title: 'H. War Plans'
 ---
 
+:::tip[Big win]
+**On the NMD tree, take Dread Revival + Gauntlet + the corrupted-roots-friendly nodes.** On Infernal Hordes, take Council Coffers (free chest with mythic seal chance) and skip "Infernal Horda" (the tempting double-vowel node, not worth the ether cost).
+:::
+
 :::tip[Do]
 prime move
 
@@ -102,3 +106,18 @@ At rank 10 across all 5 trees, the reroll pool starts showing Mythic War Plan Qu
 | Mythic Unique | 1 mythic unique on completion (called "underwhelming" by source) |
 | Armor / Opus / XP / Mats | Themed bulk rewards |
 | **Gems** (the white whale) | Reportedly drops one of each max-rolled Horadric jewel. Source has farmed thousands of war plans without seeing it yet. |
+
+## Infernal Hordes refinements (Slivver, 2026)
+
+:::caution[Black Pact double-pick bug]
+On round 3+ when the Black Pact choice appears, click a normal option FIRST, then quickly click Black Pact before it disappears. You get BOTH. The combined description doesn't show all benefits but they stack. Often the difference between an ether-rich and ether-broke run.
+:::
+
+**Take the Council Coffers node.** Adds an extra 100-ether chest at run end with talisman drops including mythic seal chance. Best single Infernal Hordes node for loot value.
+
+:::danger[Don't take "Infernal Horda"]
+The tempting-looking node with the double-vowel name (Horda vs. Hordes) sounds like extra runs but is not worth the ether cost in practice per Slivver.
+:::
+
+Source: [Slivver Infernal Hordes tricks (s_6cV2Q2Uhs)](https://www.youtube.com/watch?v=s_6cV2Q2Uhs).
+

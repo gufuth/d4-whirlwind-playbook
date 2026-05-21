@@ -3,6 +3,10 @@ description: 'Purveyor of Curiosities aspect gambling, pale mark aspect barterin
 title: 'F. Aspect & Unique Hunting'
 ---
 
+:::tip[Big win]
+**Purveyor of Curiosities + Pale Mark aspect bartering** cover 90% of aspect needs. Gamble 1H weapons or focuses on the Purveyor — guaranteed offensive aspects on legendary upgrade.
+:::
+
 ### F1 — Purveyor of Curiosities
 
 Gamble 1H weapons or focuses for guaranteed offensive aspects on upgrade. If gamble drops rare not legendary, Cube → Add Affix to upcycle (Pure Primordial Dust, you'll have 800+).

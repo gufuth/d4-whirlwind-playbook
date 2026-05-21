@@ -3,6 +3,10 @@ description: '20 edge cases and exploits worth knowing: pit boss secrets, dungeo
 title: 'N. Edge Cases'
 ---
 
+:::tip[Big win]
+**20+ tricks below.** Current biggest exploit: the Dark Omen infinite Butcher farm (likely hotfix-bound, do it fast). Most-used edge case: group up for Infernal Hordes for 4x XP.
+:::
+
 | # | Tip | Detail |
 |---|---|---|
 | N1 | Strip → upcycle to unique | Cube → Remove Affix repeatedly → common (ancestral tag persists) → Upgrade to Unique → forced ancestral unique. Best for slot-restricted hunting (paladin maces ≈ 6 possible uniques). |
@@ -25,3 +29,21 @@ title: 'N. Edge Cases'
 | N18 | War Plan XP via group join | For levelling slow war plans (Infernal Hordes especially): run war plans until target activity is next, join a public group for that activity via social tab, run with full group → get XP for EACH member ≈ 4× solo XP. Leave group after, finish war plan normally for additional chunk. |
 | N19 | Forgotten Souls = THE bottleneck | Every cube reroll, enchant, and ancestral masterwork burns forgotten souls. You'll routinely hit zero while sitting on 30k+ obducite. Salvage every ancestral. Convert veiled crystals (10:1). Pick crafting-material-drop-rate charms. Treat souls as the rate-limiting resource on every build pass. |
 | N20 | Full T12 build from obol gambling alone | You can craft a T12-viable build without leaving town and without masterworking: gamble obols → cube remove unwanted affixes (category prisms) → cube add desired affixes → enchanter lock GA → cube focus reroll. ~30 minutes per build swap. Even GA-less, cube-crafted gear clears T12 if affixes are correct. |
+
+## Dark Omen infinite Butcher exploit (Slivvur, likely hotfix-bound)
+
+:::danger[Exploit warning]
+Slivvur flags this as "considered a bug, slight chance of ban." Do at your own risk; likely to be hotfixed.
+:::
+
+Works ONLY in war-plan NMDs entered via the map teleport (NOT your own sigils). Steps:
+
+1. Run war-plan NMDs until you roll the **Dark Omen** negative affix (top-left of the map when you open it).
+2. Enter the dungeon. You'll get ambushed by Butcher (or Xfal, or another mini-boss).
+3. Kill the ambush, **leave WITHOUT killing the end boss**. The Dark Omen affix persists because you didn't complete the dungeon.
+4. Re-enter, get ambushed again, kill again, leave again. Infinite.
+
+**Butcher drops** include Tributes of Armaments (Mythic Unique farm currency) and Tributes of the Horadrim (talisman + mythic seal farm currency). One of the best targeted Mythic Unique + Mythic Seal farms in the game while it lasts.
+
+Source: [Slivvur infinite Butcher farm (91ZJOtkK6OM)](https://www.youtube.com/watch?v=91ZJOtkK6OM).
+

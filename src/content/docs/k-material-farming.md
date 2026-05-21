@@ -3,6 +3,10 @@ description: 'Gem farming options, Practice Technique gold loop, material densit
 title: 'K. Material Farming'
 ---
 
+:::tip[Big win]
+**Sears Reach for grand gems.** Use the map-marker-on-fringe trick (drop a marker on the LEFT or TOP edge of the boss arena — it persists across resets so you always know where to head). For transfig dust: Undercity Tribute of the Harajum bargains, ~12 per run.
+:::
+
 ### K1 — Source comparison (measured)
 
 | Activity | Time | F.Souls | V.Crystals | Scrolls | Notes |
@@ -46,3 +50,10 @@ After clearing the boss, right-click a CORNER of the boss arena on the mini-map 
 ### K5 — Crafting material drop rate charms
 
 Affix "Crafting Material Drop Rate +X%" on charms. Stack multiple. 1–2 rolls active → ~22% more mats per Hell Tide hour. Among the most underrated charm affixes.
+
+## Sears Reach: the map-marker trick (Sliver)
+
+The boss arena location is randomized per Sears Reach run, but a manual map marker persists across dungeon resets. **Place the marker on the LEFT or TOP edge of the boss arena** (not inside it — walking close clears the marker). Now every reset, opening the map immediately shows you the boss direction. Doubles farm speed.
+
+Source: [Sliver gold/material/QoL tips (XlaMI-S9VvA)](https://www.youtube.com/watch?v=XlaMI-S9VvA).
+

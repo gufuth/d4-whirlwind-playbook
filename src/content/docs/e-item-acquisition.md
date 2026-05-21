@@ -3,6 +3,10 @@ description: 'Item power progression, torment tier unlocks, where each item clas
 title: 'E. Item Acquisition'
 ---
 
+:::tip[Big win]
+**Lair Bosses > Pit > Helltides > Whispers** for the highest-tier targeted drops. Item power progression is gated by Torment tier unlocks, not by character level after 70.
+:::
+
 ### E1 — Item power progression
 
 | Stage | Item Power | Where |

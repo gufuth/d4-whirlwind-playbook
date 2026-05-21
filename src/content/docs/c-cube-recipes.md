@@ -3,6 +3,10 @@ description: 'Cube crafting recipes and amalgamation rules for items.'
 title: 'C. Cube Recipes'
 ---
 
+:::tip[Big win]
+**Amalgamate cheap blue items for transfig fodder.** Set charm and blue weapon amalgams are the cheapest way to feed the cube without burning hard-earned legendaries.
+:::
+
 ### Crafting recipes
 
 | Recipe | Input | Output | Best Use |

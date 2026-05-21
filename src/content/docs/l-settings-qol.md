@@ -3,6 +3,10 @@ description: 'Required gameplay options, loot filter rule sets, the Codex search
 title: 'L. Settings & QoL'
 ---
 
+:::tip[Big win]
+**Turn on Advanced Tooltip Information** (Options → Gameplay). Set up the 4-rule loot filter. Type `equipped` in the Codex search to audit your current aspects in one view. Hold Ctrl while clicking paragon nodes to fast-spend points along a path.
+:::
+
 One-time setup, pays dividends every session.
 
 ### L1 — Core settings
@@ -64,3 +68,10 @@ Set to *Crit Damage* for crit-scaling builds. Set to *Normal Damage* for DoT/pet
 ### L8 — Waypoint favoriting
 
 Right-click any waypoint on the map → favorite. Teleport key now sends you there by default. Saves 4–5 seconds per teleport, hundreds of times per session.
+
+## Paragon fast-spend (Sliver)
+
+**Hold Ctrl while clicking paragon nodes** to spend points along a path in a single drag. Forward-only — refunding still requires one-click-at-a-time. Big speed win when respeccing into a new build template.
+
+Source: [Sliver gold/material/QoL tips (XlaMI-S9VvA)](https://www.youtube.com/watch?v=XlaMI-S9VvA).
+

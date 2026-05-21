@@ -3,6 +3,10 @@ description: 'Infinite tempering re-rolls, masterworking crit targets, enchanter
 title: 'D. Tempering & Masterworking'
 ---
 
+:::tip[Big win]
+**Tempering re-rolls are infinite.** Push to Masterwork Rank 25 on Mythics and weapons first — crit ranks at MW25 are where damage spikes.
+:::
+
 ### D1 — Infinite tempering re-rolls
 
 "Reset the Item" at Blacksmith refills tempering charges using 1 Scroll of Restoration. No cap. You have infinite tempering rolls as long as scrolls hold out (hundreds by mid-game). Workflow: temper → if not GA, reset → temper again. GA temper "max resolve stacks" goes from 5 to 12 post-masterwork; GA crit strike damage jumps ~50 to ~100.
