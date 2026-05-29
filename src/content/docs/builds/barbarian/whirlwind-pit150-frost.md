@@ -109,7 +109,20 @@ This is the load-bearing rotation. Get it wrong and Azurewrath's explosion fires
 
 **Bac rune (the Offering feeder):** generates 50 Offerings per 5m traveled. So Thul auto-fires every 30m of movement, which is about 5-6 seconds of moving while channeling Whirlwind.
 
-### The rotation
+### Casual rotation (gets you 80% of the value)
+
+:::tip[Do]
+1. WW the boss while moving in small circles (you'd do this anyway)
+2. Watch for the blue Frost Nova flash. That's Thul firing and freezing the boss
+3. When the freeze lands and the boss is iced, fire Challenging Shout
+4. WW the frozen boss until the freeze ends, then the Azurewrath explosion fires. Repeat.
+:::
+
+You don't need to wait for stagger to hit exactly 100%. As long as the freeze lands and you damage the boss while frozen, Azurewrath's payoff fires.
+
+### Pit-pushing optimal rotation (sweat tier)
+
+Use this when you're ranking Pit 145+ and need every drop of damage. For normal play the casual rotation above gets ~80% of the payoff with none of the timing stress.
 
 **Opening (boss spawns):**
 
